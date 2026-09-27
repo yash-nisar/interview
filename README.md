@@ -135,6 +135,7 @@
 * [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
 * [IT-Career useful links](http://stereobooster.github.io/it-career)
 * [Resume helper](https://resumeworded.com/)
+* [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anon, 10/day free) + State of ATS 2026 (738 employers, 704 portal-verified).
 
 ### Mock interviews
 
